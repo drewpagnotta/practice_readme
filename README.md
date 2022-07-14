@@ -36,7 +36,7 @@ pip install questionary
 
 *Randomly snapped for practice.*
 
-![ss1](/Users/mobiesage/Documents)
+![Practice Screen Shot](images/ss1.png)
 
 
 ---
