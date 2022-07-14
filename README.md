@@ -36,7 +36,7 @@ pip install questionary
 
 *Randomly snapped for practice.*
 
-![Practice Screen Shot](images/ss1.png)
+![Practice Screen Shot](./images/ss1.png)
 
 
 ---
